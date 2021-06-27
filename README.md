@@ -1,4 +1,4 @@
-## Hey, I'm Chun Yang 👋
+# Hey, I'm Chun Yang 👋
 
 I'm a full stack developer from Canada. Currently I am working at Gydai and being a student at Western University as well. 
 
@@ -12,4 +12,9 @@ In 2018, I attended Bootcamp to learn how to code, and then I'm totally fall in 
 <code><img height="40" src="https://www.import.io/wp-content/uploads/2012/04/java-logo-1.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></code>
+
+### Get in touch
+- Email: canadachunyang@gmail.com
+- LinkedIn: https://ca.linkedin.com/in/chun-yang-903729157
+
 
