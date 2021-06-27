@@ -2,7 +2,7 @@
 
 I'm a full stack developer from Canada. Currently I am working at Gydai and being a student at Western University as well. 
 
-In 2018, I attended Bootcamp to learn how to code, and then I'm totally fall in it. After Bootcamp, I found my first tech job and then I realized that what I learned from Bootcamp is not enough. Thus, I go to Western Univsersity pursuing HONOURS SPECIALIZATION IN COMPUTER SCIENCE degree. I am doing pretty good so far. (average grade - 85 😄)
+In 2018, I attended Bootcamp to learn how to code, and then I'm totally fall into coding. After Bootcamp, I found my first tech job and then I realized that what I learned from Bootcamp is not enough. Thus, I go to Western Univsersity pursuing HONOURS SPECIALIZATION IN COMPUTER SCIENCE degree. I am doing pretty good so far. (average grade - 85 😄)
 
 ### Languages and Tools That I have experience:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
