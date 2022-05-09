@@ -1,6 +1,6 @@
 # Hey, I'm Chun Yang 👋
 
-I'm a full stack developer from Canada. Currently I am working at Gydai and being a student at Western University as well. 
+I'm a full stack developer from Canada. Currently I am working at Kritik and being a student at Western University as well. 
 
 In 2018, I attended Bootcamp to learn how to code, and then I'm totally fall into coding. After Bootcamp, I found my first tech job and then I realized that what I learned from Bootcamp is not enough. Thus, I go to Western Univsersity pursuing HONOURS SPECIALIZATION IN COMPUTER SCIENCE degree. I am doing pretty good so far. (average grade - 90 😄)
 
