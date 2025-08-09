@@ -1,4 +1,6 @@
-👨‍💻 Full Stack Software Developer | 🌟 Transforming Ideas into Exceptional Software
+# Hey, I'm Chun Yang 👋
+
+I am a 👨‍💻 Full Stack Software Developer | 🌟 Transforming Ideas into Exceptional Software
 
 🔹 About Me 🔹
 As a dedicated full stack software developer, I thrive on turning visionary ideas into reality through the power of code. I am passionate about crafting robust, scalable, and user-centric software solutions that drive business success.
