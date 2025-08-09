@@ -1,20 +1,31 @@
-# Hey, I'm Chun Yang 👋
+👨‍💻 Full Stack Software Developer | 🌟 Transforming Ideas into Exceptional Software
 
-I'm a full stack developer from Canada. Currently I am working at Kritik and being a student at Western University as well. 
+🔹 About Me 🔹
+As a dedicated full stack software developer, I thrive on turning visionary ideas into reality through the power of code. I am passionate about crafting robust, scalable, and user-centric software solutions that drive business success.
+🔹 Key Strengths 🔹
+💡 Expertise in Full-Stack Development: Proficient in frontend and backend technologies, I excel in creating seamless user experiences and robust server-side solutions.
 
-In 2018, I attended Bootcamp to learn how to code, and then I'm totally fall into coding. After Bootcamp, I found my first tech job and then I realized that what I learned from Bootcamp is not enough. Thus, I go to Western Univsersity pursuing HONOURS SPECIALIZATION IN COMPUTER SCIENCE degree. I am doing pretty good so far. (average grade - 90 😄)
+🚀 Problem Solver: I enjoy tackling complex challenges and optimizing code for peak performance, resulting in efficient and elegant solutions.
 
-### Languages and Tools That I have experience:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://www.import.io/wp-content/uploads/2012/04/java-logo-1.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></code>
+🌐 Tech Stack Mastery: My toolkit includes languages such as JavaScript, Python, and Ruby, along with frameworks like React, Node.js, and Ruby on Rails. I'm also well-versed in database design and management. I have work experience with MongoDB and PostgreSQL.
 
-### Get in touch
-- Email: canadachunyang@gmail.com
-- LinkedIn: https://ca.linkedin.com/in/chun-yang-903729157
+🧰 DevOps Enthusiast: I embrace DevOps practices, leveraging tools like Git, Docker, and cloud platforms (AWS/Azure) to streamline development pipelines and ensure continuous integration and deployment.
 
+🌟 What Sets Me Apart 🌟
+I'm not just a developer; I'm a strategic thinker who understands that software is a means to achieve business objectives. I excel in collaborating with cross-functional teams, translating technical jargon into understandable terms, and aligning technology initiatives with organizational goals.
 
+💬 Let's Connect 💬
+Recruiters and hiring managers, if you're seeking a software developer who can bring innovation, problem-solving prowess, and a collaborative spirit to your team, let's connect! I'm open to new opportunities and excited to discuss how I can contribute to your organization's success.
+
+#SoftwareDevelopment #FullStackDeveloper #DevOps #Innovation #ProblemSolving
+
+[Contact Information]
+📧 Email: canadachunyang@gmail.com
+
+【Technical Stack】
+
+Programming Language: JavaScript, C#, Ruby, Java
+
+Web Development: HTML, CSS, jQuery, React.js, Redux, TypeScript, Bootstrap, Node.js, Express.js, Next.js, Nuxt.js
+
+Database: PostegreSQL, MongoDB, Microsoft Server SQL
